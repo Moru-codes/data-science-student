@@ -6,4 +6,5 @@ Salome
 Enoch
 Tobi
 Favour E
-Favour USamuel
+Favour U
+Samuel
